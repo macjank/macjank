@@ -1,6 +1,8 @@
 ### Hi there, I am Maciej Jankowski 👋
 
-### I'am a Mechanical Engineer who wants to become Front-end Web Developer
+### About me:
+I'am a Mechanical Engineer who wants to become a Front-end Web Developer.
+I enjoy working with Javascript & React. 
 
 ### My stats:
 <!-- [![Anurag's GitHub stats] -->
