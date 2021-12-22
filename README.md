@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macjank&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macjank&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=macjank&show_icons=true&theme=algolia" />
+[![Top Langs]<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macjank&show_icons=true&theme=algolia&layout=compact" />
 
 
 <!--
