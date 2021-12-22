@@ -1,5 +1,7 @@
 ### Hi there, I am Maciej Jankowski 👋
 
+### I'am a Mechanical Engineer who wants to become Front-end Web Developer
+
 ### My stats:
 <!-- [![Anurag's GitHub stats] -->
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=macjank&show_icons=true&theme=algolia" />
