@@ -4,6 +4,7 @@
 I'am a Mechanical Engineer who wants to become a Front-end Web Developer.
 I enjoy working with Javascript & React. 
 
+
 ### Technologies & tools:
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,6 +16,7 @@ I enjoy working with Javascript & React.
 <img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 ### My stats:
 <!-- [![Anurag's GitHub stats] -->
