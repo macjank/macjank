@@ -1,8 +1,9 @@
 ### Hi there, I am Maciej Jankowski 👋
 
 ### About me:
-I'am a Mechanical Engineer who wants to become a Front-end Web Developer.
-I enjoy working with Javascript & React. 
+Mechanical Engineer who wants to become a professional Front-end Web Developer.
+Learning Front-end Web Development technologies for 1,5 year.
+Enjoying working with Javascript & React. 
 <br />
 
 ### Technologies & tools:
