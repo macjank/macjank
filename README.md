@@ -2,7 +2,9 @@
 
 ### About me:
 Mechanical Engineer who wants to become a professional Front-end Web Developer.
-Learning Front-end Web Development technologies for 1,5 year.
+<br />
+Since 2020 focused on learning Front-end Web Development technologies.
+<br />
 Enjoying working with Javascript & React. 
 <br />
 
