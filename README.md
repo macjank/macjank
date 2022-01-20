@@ -1,7 +1,7 @@
 ### Hi there, I am Maciej Jankowski 👋
 
 ### About me:
-Mechanical Engineer who wants to become a professional Front-end Web Developer.
+Mechanical Engineer aspiring to become a professional Front-end Web Developer.
 <br />
 Since 2020 focused on learning Front-end technologies.
 <br />
